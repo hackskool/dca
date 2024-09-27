@@ -75,7 +75,7 @@ DCA_DIR = f'{BASE_DIR}/sample'
 run this
 
 ```
-python managr.py generate
+python manage.py generate
 ```
 and it will gernerate dbapi file `<app-name>/dbapi.py`
 
